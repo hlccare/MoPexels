@@ -1,0 +1,7 @@
+<!--pages/search/search.wxml-->
+<view class="container">
+<view class="input-wrapper">
+<input auto-focus placeholder="请输入关键词" confirm-type="search"/>
+<ImageList></ImageList>
+</view>
+</view>

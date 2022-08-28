@@ -1,0 +1,10 @@
+/* pages/search/search.wxss */
+.input-wrapper{
+    width: 100%;
+}
+input{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 6px;
+    margin: 20px;
+}

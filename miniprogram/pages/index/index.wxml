@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="image-list">
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+  
+  </view>
+</view>

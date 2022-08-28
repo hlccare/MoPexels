@@ -1,0 +1,9 @@
+<!--components/ImageList/ImageList.wxml-->
+<view class="image-list">
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+    <image src="../../assets/image/1.jpg" mode="widthFix"></image>
+  </view>
